@@ -6,6 +6,7 @@
 % La = 0.0272;
 % s = tf('s');
 % P_motor = Ke/((J*s+b)*(La*s+Ra)+Ke^2);
+
 Vd =30;
 R=4.98;
 L=5.05;
